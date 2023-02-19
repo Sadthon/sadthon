@@ -1,7 +1,7 @@
 {
-    "name": "Mikthon",
+    "name": "Sadthon",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://graph.org/file/dead0e9a6bc000eff2b2d.jpg",
+    "logo" : "",
     "stack": "container",
     "repository": "https://github.com/Mikthon/FQ_YQ",
     "keywords": [
